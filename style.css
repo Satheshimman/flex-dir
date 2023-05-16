@@ -1,0 +1,64 @@
+*{
+
+margin:0px;
+padding:0px;
+box-sizing:border-box;
+}
+
+
+.header{
+	
+	background-color:#15cce5;
+	padding:15px 0px;
+	
+}
+
+
+.container{
+	
+	width:90%;
+	margin:0 auto;
+	
+}
+
+
+
+.row{
+	
+	display:flex;
+	
+}
+
+.col-1{
+	
+	width:50%;
+	
+	
+}
+.col-2{
+	
+	width:50%;
+	background-color:white;
+	
+	
+	
+}
+.row1{
+	
+	display:flex;
+	padding:40px 0px;
+}
+
+.icon{
+	
+	font-size:45px;
+	color:yellow;
+	
+}
+
+
+.para{
+	
+	font-size:25px;
+	
+}
